@@ -1,0 +1,6 @@
+# ignore the following
+# leading "**" followed by a slash means match in all directories
+**/keys.js
+
+# leading slash matches the beginning of the pathname
+/node_modules
