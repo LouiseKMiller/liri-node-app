@@ -85,8 +85,10 @@ switch(command) {
 		// call Twitter API using npm twitter; display results in terminal
 		client.get('statuses/user_timeline', param, function(err, tweets, response){
 			if (!err){
-				outToBoth("@" + tweets[0].in_reply_to_screen_name + " " + tweets[0].text);
-				outToBoth(tweets[0].created_at);
+				for (var i=0; i<tweets.length; i++) {
+					outToBoth("@" + tweets[i].in_reply_to_screen_name + " " + tweets[i].text);
+					outToBoth(tweets[i].created_at);
+				}
 			} else {
 				outToBoth('Error occurred:' +err);
 			}
