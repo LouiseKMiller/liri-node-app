@@ -1,0 +1,173 @@
+oops - something went wrong. did not fit any switch statement
+oops - something went wrong. did not fit any switch statement
+ 
+ 
+**************************************************
+**             my-tweets
+**************************************************
+ 
+@apexmpatel @apexmpatel one more...
+Wed Jun 29 23:30:51 +0000 2016
+@apexmpatel @apexmpatel Hey there!!  here's a tweet!
+Wed Jun 29 23:29:14 +0000 2016
+@null my first tweet!  let's see what happens.
+Sun Jun 26 21:18:22 +0000 2016
+ 
+ 
+**************************************************
+**             spotify-this-song
+**************************************************
+ 
+"what's my age again" by blink 182
+ 
+ 
+**************************************************
+**             spotify-this-song
+**************************************************
+ 
+artist #1: The Beatles
+song name: Let It Be - Remastered
+preview link: https://p.scdn.co/mp3-preview/f7913ebb647d47835c34fa4db7e889c8a87c6d10
+album: Let It Be (Remastered)
+ 
+artist #1: Ray LaMontagne
+song name: Let It Be Me
+preview link: https://p.scdn.co/mp3-preview/833e829e1bd6c2ca8d987d8b2a8b31df236f8aaa
+album: Gossip In The Grain
+ 
+artist #1: Blackmill
+artist #2: Veela
+song name: Let It Be (feat. Veela)
+preview link: https://p.scdn.co/mp3-preview/adc6c328aae5590d2fe9de0c5724cedd0fa1cf5e
+album: Miracle
+ 
+artist #1: The Beatles
+song name: Let It Be - Remastered 2015
+preview link: https://p.scdn.co/mp3-preview/cd2a7eb953cd321b4536774604c742ee416edf84
+album: 1 (Remastered)
+ 
+artist #1: Labrinth
+song name: Let It Be
+preview link: https://p.scdn.co/mp3-preview/6f32e6988f2db4edef8f6576d36931526a6c42ba
+album: Let It Be
+ 
+artist #1: Dyme Def
+song name: Let It Be
+preview link: https://p.scdn.co/mp3-preview/514c07287f1a660fb8163f1870bc8b4d58b0dd77
+album: Space Music
+ 
+artist #1: Carol Woods
+artist #2: Timothy T. Mitchum
+song name: Let It Be - Long Version
+preview link: https://p.scdn.co/mp3-preview/5e907ffdb38ac719def48df614424a1afd4539dd
+album: Across The Universe (Original Deluxe)
+ 
+artist #1: Worship Central
+song name: Let It Be Known - Live
+preview link: https://p.scdn.co/mp3-preview/275e0abaee12376dfd3afc4a5ca885d2c7837807
+album: Let It Be Known (Live)
+ 
+artist #1: Christy Nockels
+song name: Let It Be Jesus - Live
+preview link: https://p.scdn.co/mp3-preview/70609657ce624149a9b240ce11aa09240b714db0
+album: Let It Be Jesus (Live)
+ 
+artist #1: Ray LaMontagne
+song name: Let It Be Me
+preview link: https://p.scdn.co/mp3-preview/57faa9ae18b1d3ca567d5192be34caba200dccd0
+album: Gossip In The Grain
+ 
+artist #1: St. Paul & The Broken Bones
+song name: Let It Be So
+preview link: https://p.scdn.co/mp3-preview/1a3c624270b3a371e96a6e9e406e5e7d97b4ff7d
+album: Half the City
+ 
+artist #1: Paul McCartney
+song name: Let It Be - Live
+preview link: https://p.scdn.co/mp3-preview/815dcd154064fa8558e4f2207155d5c12a34a39e
+album: Back In The World (Live)
+ 
+artist #1: Lincoln Brewster
+song name: Let It Be Known
+preview link: https://p.scdn.co/mp3-preview/4e31f2eba8a881016bbc0006a7163990a3f82f17
+album: Oxygen
+ 
+artist #1: Happy Baby Lullaby Collection
+song name: Let It Be
+preview link: https://p.scdn.co/mp3-preview/e81fe8bd34704737790f12a383f6a8d1126277b4
+album: Baby Beatles Lullaby Children Songs. Sweet Lullaby Renditions of Beatles Fav's Help Rock a Bye Your Kids & Baby to Sleep
+ 
+artist #1: The Beatles
+song name: Let It Be - Remastered
+preview link: https://p.scdn.co/mp3-preview/8b9eff398d283300eff1a63505ea8756c17c6235
+album: Past Masters (Vols. 1 & 2 / Remastered)
+ 
+artist #1: Passion
+artist #2: Christy Nockels
+song name: Let It Be Jesus - Live
+preview link: https://p.scdn.co/mp3-preview/814cf939aaa22ed9234ae64d1023842383262ac8
+album: Passion: Take It All (Live)
+ 
+artist #1: Glee Cast
+song name: Let It Be (Glee Cast Version)
+preview link: https://p.scdn.co/mp3-preview/6556507ffdcf592411bb6fd0695295727979ce36
+album: Glee Sings The Beatles
+ 
+artist #1: Nightcore
+song name: Let It Be Now
+preview link: https://p.scdn.co/mp3-preview/40d0a4c084aebb4348007bcc7987b8659c51bbc3
+album: Angel with a Shotgun
+ 
+artist #1: Family Force 5
+song name: Let It Be Love
+preview link: https://p.scdn.co/mp3-preview/6b51069d07556a1c7a322c77867b6b81126ebd6a
+album: Time Stands Still
+ 
+artist #1: The Beatles
+song name: Let It Be - Remastered
+preview link: https://p.scdn.co/mp3-preview/1365b72cb0ba197c3067609edc0ac0ccdfb5cd0d
+album: The Beatles 1967 - 1970 (Remastered)
+ 
+ 
+ 
+**************************************************
+**             spotify-this-song
+**************************************************
+ 
+oops - something went wrong. did not fit any switch statement
+ 
+ 
+**************************************************
+**             movie-this
+**************************************************
+ 
+ 
+ 
+**************************************************
+**             movie-this
+**************************************************
+ 
+Title: Mr. Nobody
+Year: 2009
+iMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 6.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+ 
+ 
+**************************************************
+**             movie-this
+**************************************************
+ 
+Title: Superman
+Year: 1978
+iMDB Rating: 7.3
+Country: USA, UK
+Language: English
+Plot: An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+Actors: Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+Rotten Tomatoes Rating: 8.0
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/superman_the_movie/
